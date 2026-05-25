@@ -1,6 +1,6 @@
 # Marcador de Pictos - Clair Obscur Expedition 33
 
-Um aplicativo desktop desenvolvido em Python para rastrear e gerenciar Fortalecimentos (Pictos) do jogo Clair Obscur: Expedition 33*. 
+Um aplicativo desktop desenvolvido em Python para rastrear e gerenciar Fortalecimentos (Pictos) do jogo Clair Obscur: Expedition 33. 
 O programa extrai dados em tempo real da wiki oficial e salva o progresso do usuário localmente, permitindo por meio de check-list o rastreio dos pictos ja coletados
 
 # Funcionalidades
