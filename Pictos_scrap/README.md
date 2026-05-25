@@ -22,3 +22,6 @@ JSON e OS para o Gerenciamento de Dados e Persistência
 3. Execute o arquivo principal: `python Interface.py`
 *(Ou simplesmente baixe o arquivo `.exe` na aba "Releases" para testar diretamente no Windows).*
 
+<img width="1340" height="967" alt="image" src="https://github.com/user-attachments/assets/b0666829-43f8-464e-9b5f-b83e3ad0aa66" />
+
+
